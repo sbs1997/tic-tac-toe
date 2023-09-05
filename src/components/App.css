@@ -1,8 +1,6 @@
 :root{
   background-color: black;
-
 }
-
 .app{
   text-align: center;
   background-color: black;
@@ -63,4 +61,12 @@ height: 200px;
 width: 100%;
 background-color: white;
 font-size: 24px;
+}
+.navLink{
+  color: black;
+  background-color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+  padding-bottom: 4px;
 }
